@@ -47,7 +47,7 @@ class HomeScreen extends StatelessWidget {
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.deepOrange),
             ),
             const SizedBox(height: 10),
-            const Text(
+            Text(
               'Explore our exquisite range of traditional and bridal sarees, crafted for elegance and tradition.',
               style: TextStyle(fontSize: 16, color: Colors.grey[700]),
             ),
